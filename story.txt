@@ -1,4 +1,4 @@
-Once upon a time we all used git hub and no one understood a thing
-Everyone struggles but they began to understand eventually
+Once upon a time we all used git hub and no one understood a thing.
+Everyone struggled but they began to understand eventually.
 Pretty soon everyone realized the benefits of github and how they can collaborate with different people on one project.
 Github became everyones favorite version control software for its easy to use interface and accesiblity. 
