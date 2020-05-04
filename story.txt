@@ -1,2 +1,3 @@
 Once upon a time we all used git hub and no one understood a thing
 Everyone struggles but they began to understand eventually
+Pretty soon everyone realized the benifits of github and how they can collaborate with different people on one project.
