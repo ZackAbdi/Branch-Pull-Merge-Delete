@@ -6,3 +6,4 @@ Pretty soon everyone realized the benefits of github and how they can collaborat
 Github became everyones favorite version control software for its easy to use interface and accesiblity. 
 Github allows users to upload copys of the same file so that other people can make changes to it.
 It also allows multiple users to work on the same file and keeps track of each users progress.
+Keeping track helps with altering and updating new software. 
